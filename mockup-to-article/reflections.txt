@@ -1,0 +1,11 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+---
+It has been fun working on translating mock-ups to html--this was new to me.  I enjoyed not having to focus on the content, but solely on making the html expressive of the mock-up.
+
+I can't say that anything thus far has been particularly 'easy' or 'difficult'; rather, 'more-or-less straightforward'.  I'm trying to work on semantic html--the rules and conventions of which I'm struggling to grasp--which makes me have to stop and consider why I might use any particular element.  A fun challenge!
+
+For this project, I've made pretty extensive use of the MDN developer guides/references.
