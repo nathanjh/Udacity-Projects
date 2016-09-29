@@ -1,1 +1,27 @@
-/* add your CSS here */
+#factoid {
+  font-style: italic;
+}
+.stat-label {
+  font-weight: bold;
+}
+
+.stat-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.border-box {
+  border: 1px solid #d0d0d0;
+}
+
+.padded {
+  padding: 10px;
+}
+
+img {
+  padding-bottom: 10px;
+}
+
+#card-edge {
+  box-shadow: 5px 5px 5px #d9d9d9
+}
