@@ -1,6 +1,7 @@
 #factoid {
   font-style: italic;
 }
+
 .stat-label {
   font-weight: bold;
 }
@@ -11,7 +12,8 @@
 }
 
 .border-box {
-  border: 1px solid #d0d0d0;
+  border: 1px solid #80582f;
+  border-radius: 3px;
 }
 
 .padded {
@@ -19,9 +21,33 @@
 }
 
 img {
-  padding-bottom: 10px;
+  margin-bottom: 3px;
+  border: 1px solid #80582f;
+  border-radius: 3px;
 }
 
 #card-edge {
-  box-shadow: 5px 5px 5px #d9d9d9
+  box-shadow: 5px 5px 5px #d9d9d9;
+  width: 302px;
+  background-image: url(grass.jpg);
+}
+
+#info-box {
+  width: 280px;
+  background-color: #e2f7ca;
+}
+
+#card-title {
+  font-family: Papyrus, fantasy;
+  font-size: 2em;
+  text-align: center;
+  letter-spacing: 0.5em;
+  color: #955100;
+  text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+  margin: 0;
 }
